@@ -1,6 +1,6 @@
 # Fluorescence Diffraction Tomography using Explicit Neural Fields
 
-This is the repository that contains source code for the [FDT website](https://cubhe.github.io/fdt/).
+This is the repository that contains source code for the [FDT website](https://xue-lab-cobi.github.io/fdt/).
 
 If you find Nerfies useful for your work please cite:
 ```
